@@ -20,7 +20,4 @@
   "dependencies": {
     "node-fetch": "^2.6.7"
   }
-  "scripts": {
-    "start": "node your-script.js"
-}
 }
