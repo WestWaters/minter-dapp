@@ -3,7 +3,8 @@
   "version": "0.0.1",
   "description": "Generate an NFT collection and deploy a minting dapp easy!!",
   "scripts": {},
-  "start": "node App.js",
+  "build": "index.html",
+  "start": "index.html",
   "author": "Jesse Hall (codeSTACKr)",
   "license": "MIT",
   "dependencies": {
