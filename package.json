@@ -6,6 +6,7 @@
   "author": "Jesse Hall (codeSTACKr)",
   "license": "MIT",
   "dependencies": {
-    "gatsby": "^4.11.1"
+    "gatsby": "^4.11.1",
+    "node.js": "^0.0.1-security"
   }
 }
