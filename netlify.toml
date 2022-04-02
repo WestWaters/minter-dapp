@@ -1,4 +1,5 @@
 [build]
-publish = "/opt/build/repo/build"
+functions = "functions"
+publish = "/build"
 publishOrigin = "config"
-functionsDirectory = "/opt/build/repo/functions"
+functionsDirectory = "/functions"
