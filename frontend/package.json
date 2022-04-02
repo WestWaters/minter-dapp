@@ -6,7 +6,7 @@
   "scripts": {
     "build": "react-scripts build && echo '/* /index.html  200' | cat >build/_redirects ",
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node index.html"
+    "start": "node index.js"
   },
   "repository": {
     "type": "git",
