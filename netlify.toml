@@ -1,5 +1,4 @@
-[build]
-functions = "functions"
-publish = "/build"
-publishOrigin = "config"
-functionsDirectory = "/functions"
+[[redirects]]
+  from = "/*"
+  to = "/index.html"
+  status = 200
